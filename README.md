@@ -1,16 +1,8 @@
-# job_updates_app
-
-A new Flutter project.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![WhatsApp Image 2021-07-11 at 5 01 43 PM](https://user-images.githubusercontent.com/60441368/125193400-e49efc00-e269-11eb-90d9-86c1dd7d1ded.jpeg)
+![WhatsApp Image 2021-07-11 at 5 01 43 PM (1)](https://user-images.githubusercontent.com/60441368/125193403-ec5ea080-e269-11eb-8051-fbca67f5348c.jpeg)
+![WhatsApp Image 2021-07-11 at 5 01 43 PM (2)](https://user-images.githubusercontent.com/60441368/125193407-eec0fa80-e269-11eb-9bdd-c8aabdc07967.jpeg)
+![WhatsApp Image 2021-07-11 at 5 01 44 PM](https://user-images.githubusercontent.com/60441368/125193409-f08abe00-e269-11eb-852e-ab2b602efc93.jpeg)
+![WhatsApp Image 2021-07-11 at 5 01 44 PM (1)](https://user-images.githubusercontent.com/60441368/125193412-f2ed1800-e269-11eb-8481-9b61f88f9567.jpeg)
+![WhatsApp Image 2021-07-11 at 5 01 44 PM (2)](https://user-images.githubusercontent.com/60441368/125193415-f4b6db80-e269-11eb-82e1-96ef3a3bc263.jpeg)
+![WhatsApp Image 2021-07-11 at 5 01 44 PM (3)](https://user-images.githubusercontent.com/60441368/125193416-f6809f00-e269-11eb-9f75-56caff81dcbf.jpeg)
+![WhatsApp Image 2021-07-11 at 5 01 44 PM (4)](https://user-images.githubusercontent.com/60441368/125193419-f84a6280-e269-11eb-88d2-f0553bbd0c1e.jpeg)
